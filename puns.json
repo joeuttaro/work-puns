@@ -20,5 +20,8 @@
   ],
   "food": ["So my wife told me she didn't like brownies. Then and there, I decided to dessert her."],
   "fish": ["What instrument do fish like to play?", "The Bass guitar."],
-  "cat": ["What did the cat say when her friend wouldn't believe her?", "Listen, I'm fur real!"]
+  "cat": [
+    "What did the cat say when her friend wouldn't believe her? - Listen, I'm fur real!",
+    "What did the cat say before he went skydiving? - It's meow or never!"
+  ]
 }
