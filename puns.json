@@ -1,24 +1,35 @@
 {
-  "horse": [
-    "I've just been barding my time waiting for you to ask for me to make another horse pun.",
-    "Ok Guys! quit horsing around!.",
-    "I sure could use some water, my voice is a little horse",
-    "If you have multiple horses in a barn, those horses have NEIGHbours."
-  ],
-  "programming": [
-    "The leader of the CSS standards committee was part of the ruling class.",
-    "I'd make a pun about programming, but I'm worried it will sound too scripted.",
-    "My grandmother bought her first programming textbook yesterday. It was a copy of 'U-Knit Tests For Dummies'.",
-    "I am trying to clone someone's repo, but I can't, I fork-get how",
-    "Can you guys Pipe down, i'm trying to clean up this code and make it spic n span.",
-    "A work colleague was working with Webpack and complained he was cold. So I told him to bundle up."
-  ],
-  "automotive_transport": ["I am getting really tire-d of these puns.", "I drove over a nail and PUNctured a tire."],
-  "football": ["I really hope they go for it on 4th and short instead of PUNting."],
-  "baltic_sea": [
-    "So the Baltic Sea divides Denmark from the rest of Scandinivia. You might say it was the dane of their existence."
-  ],
-  "food": ["So my wife told me she didn't like brownies. Then and there, I decided to dessert her."],
-  "fish": ["What instrument do fish like to play?", "The Bass guitar."],
-  "cat": ["What did the cat say when her friend wouldn't believe her?", "Listen, I'm fur real!"]
+	"horse": [
+		"I've just been barding my time waiting for you to ask for me to make another horse pun.",
+		"Ok Guys! quit horsing around!.",
+		"I sure could use some water, my voice is a little horse",
+		"If you have multiple horses in a barn, those horses have NEIGHbours."
+	],
+	"programming": [
+		"The leader of the CSS standards committee was part of the ruling class.",
+		"I'd make a pun about programming, but I'm worried it will sound too scripted.",
+		"My grandmother bought her first programming textbook yesterday. It was a copy of 'U-Knit Tests For Dummies'.",
+		"I am trying to clone someone's repo, but I can't, I fork-get how",
+		"Can you guys Pipe down, i'm trying to clean up this code and make it spic n span.",
+		"A work colleague was working with Webpack and complained he was cold. So I told him to bundle up."
+	],
+	"automotive_transport": [
+		"I am getting really tire-d of these puns.",
+		"I drove over a nail and PUNctured a tire."
+	],
+	"football": [
+		"I really hope they go for it on 4th and short instead of PUNting."
+	],
+	"baltic_sea": [
+		"So the Baltic Sea divides Denmark from the rest of Scandinivia. You might say it was the dane of their existence."
+	],
+	"food": [
+		"So my wife told me she didn't like brownies. Then and there, I decided to dessert her."
+	],
+	"fish": ["What instrument do fish like to play?", "The Bass guitar."],
+	"cat": [
+		"What did the cat say when her friend wouldn't believe her?",
+		"Listen, I'm fur real!"
+	],
+	"religion": ["How do you make holy water? You boil the hell out of it!"]
 }
